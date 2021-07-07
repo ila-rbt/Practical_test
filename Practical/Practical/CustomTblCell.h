@@ -15,7 +15,6 @@
 
 @property(nonatomic,strong)IBOutlet UILabel *lblUsername;
 @property(nonatomic,strong)IBOutlet UIImageView *imgViewUser;
-@property(nonatomic,strong)IBOutlet UIActivityIndicatorView *spinner;
 @property(nonatomic,strong)IBOutlet UICollectionView *CollectionUserItems;
 @property(nonatomic,strong)NSArray *arrUserItemData;
 
